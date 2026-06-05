@@ -19,9 +19,4 @@ Purpose
 
 The purpose of this project is to demonstrate the fundamentals of front-end web development by creating a functional and visually appealing login interface. It can be used as a starter template for authentication systems in larger web applications.
 
-Future Enhancements
-Add JavaScript form validation
-Integrate backend authentication
-Implement "Remember Me" functionality
-Add social media login options
-Connect with a database for user management
+
